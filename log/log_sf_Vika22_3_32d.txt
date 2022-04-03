@@ -1,0 +1,6 @@
+====================
+sf_Vika22_3_32d Date: Mon Mar 28 2022 16:57:48 GMT+0300
+ getRandomInt: 1
+ getRandomInt: 5
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
